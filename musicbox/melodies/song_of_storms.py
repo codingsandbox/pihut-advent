@@ -53,4 +53,4 @@ MELODY = [
     Note(Pitch.D4, Duration.WHOLE),
 ]
 
-SONG = Song(WHOLE_NOTE, MELODY)
+SONG = Song("Song of Storms", WHOLE_NOTE, MELODY)

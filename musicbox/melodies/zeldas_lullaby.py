@@ -40,4 +40,4 @@ MELODY = [
     Note(Pitch.C5, Duration.HALF, True),
 ]
 
-SONG = Song(WHOLE_NOTE, MELODY)
+SONG = Song("Zelda's Lullaby", WHOLE_NOTE, MELODY)

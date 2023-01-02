@@ -50,4 +50,4 @@ MELODY = [
     Note(Pitch.G4, Duration.WHOLE, True),
 ]
 
-SONG = Song(WHOLE_NOTE, MELODY)
+SONG = Song("Harry Potter", WHOLE_NOTE, MELODY)

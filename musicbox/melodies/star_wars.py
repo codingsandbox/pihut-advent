@@ -42,4 +42,4 @@ MELODY = [
     Note(Pitch.C6, Duration.WHOLE)
 ]
 
-SONG = Song(WHOLE_NOTE, MELODY)
+SONG = Song("Star Wars", WHOLE_NOTE, MELODY)

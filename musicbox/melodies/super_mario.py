@@ -154,4 +154,4 @@ MELODY = [
         Pitch.D4, Duration.EIGHTH), Note(Pitch.E4, Duration.HALF, True),
 ]
 
-SONG = Song(WHOLE_NOTE, MELODY)
+SONG = Song("Super Mario", WHOLE_NOTE, MELODY)

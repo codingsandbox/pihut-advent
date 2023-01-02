@@ -44,4 +44,4 @@ MELODY = [
                                                                                   Duration.SIXTEENTH), Note(Pitch.A4, Duration.HALF),
 ]
 
-SONG = Song(WHOLE_NOTE, MELODY)
+SONG = Song("Imperial March", WHOLE_NOTE, MELODY)

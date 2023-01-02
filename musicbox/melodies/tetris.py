@@ -56,4 +56,4 @@ MELODY = [
     Note(Pitch.GS5, Duration.HALF),
 ]
 
-SONG = Song(WHOLE_NOTE, MELODY)
+SONG = Song("Tetris", WHOLE_NOTE, MELODY)

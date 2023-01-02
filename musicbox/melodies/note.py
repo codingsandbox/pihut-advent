@@ -114,6 +114,7 @@ class Note:
 
 
 class Song:
-    def __init__(self, whole_note, melody):
+    def __init__(self, name, whole_note, melody):
+        self.name = name
         self.whole_note = whole_note
         self.melody = melody
